@@ -1,0 +1,5 @@
+User-agent: *
+Allow:/
+Disallow: /forms/*
+
+Sitemap: https://edensbloomsblossomsbouquets.co.ke/sitemap.xml
